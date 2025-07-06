@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I like sports and reading**
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hibaanadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hibaanadani" height="30" width="40" /></a>
@@ -27,6 +29,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hibaanadani/hibaanadani/output/pacman-contribution-graph.svg">
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibaanadani&show_icons=true&locale=en&layout=compact" alt="hibaanadani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibaanadani&show_icons=true&locale=en&layout=compact&bg_color=1c1917" alt="hibaanadani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibaanadani&show_icons=true&locale=en" alt="hibaanadani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibaanadani&show_icons=true&locale=en&bg_color=1c1917" alt="hibaanadani" /></p>
