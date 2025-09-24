@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hiba Anadani</h1>
-<h3 align="center">A passionate software engineer in the making</h3>
+<h3 align="center">A passionate software engineer </h3>
 
 - 🌱 I’m currently learning **Frameworks**
 
