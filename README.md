@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Hiba Anadani</h1>
 <h3 align="center">A passionate software engineer </h3>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I am currently expanding my **Frameworks** skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/hibaanadani](https://github.com/hibaanadani)
 
